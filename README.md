@@ -7,10 +7,10 @@ The following columns were primarily analyzed in this notebook:
 1.	Age: Patient's age in years.
 2.	Sex: Gender of the patient (1 = Male, 0 = Female).
 3.	CP (Chest Pain Type):
-o	Typical Angina
-o	Atypical Angina
-o	Non-Anginal Pain
-o	Asymptomatic
+  o	Typical Angina
+  o	Atypical Angina
+  o	Non-Anginal Pain
+  o	Asymptomatic
 4.	Trestbps: Resting blood pressure (in mmHg).
 5.	Chol: Serum cholesterol levels (in mg/dL).
 6.	Exang: Exercise-induced angina (1 = Yes, 0 = No).
